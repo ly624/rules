@@ -33,7 +33,6 @@ payload:
   - DOMAIN-KEYWORD,nodedns
   - DOMAIN-KEYWORD,cdnbye
   - DOMAIN-KEYWORD,mcdn
-  - DOMAIN-KEYWORD,httpdns
   # 通用高优 PCDN
   - DOMAIN-SUFFIX,pp.io
   - DOMAIN-SUFFIX,html.atm.youku.com
@@ -706,17 +705,3 @@ payload:
   - DOMAIN-SUFFIX,zer0day.000webhostapp.com
   - DOMAIN-SUFFIX,zer0day.ch
   - DOMAIN-SUFFIX,zer0day.to
-    #httpdns
-  - DOMAIN-SUFFIX,aedns.weixin.qq.com
-  - DOMAIN-SUFFIX,apidns.kwd.inkuai.com
-  - DOMAIN-SUFFIX,dns.iqiyi.com
-  - DOMAIN-SUFFIX,dns.jd.com
-  - DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
-  - DOMAIN-SUFFIX,dns.weibo.cn
-  - DOMAIN-SUFFIX,dns.weixin.qq.com
-  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
-  - DOMAIN-SUFFIX,doh.iqiyi.com
-  - DOMAIN-SUFFIX,doh.ptqy.gitv.tv
-  - DOMAIN-SUFFIX,dotserver.douyucdn.cn
-  - DOMAIN-SUFFIX,hdns.ksyun.com
-  - DOMAIN-SUFFIX,httpsdns.baidu.com
